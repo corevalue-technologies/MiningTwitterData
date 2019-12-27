@@ -10,10 +10,10 @@ import twitter4j.conf.ConfigurationBuilder;
  */
 public class Configuration {
 
-    static final String CONSUMER_KEY = "f6RgD6FtabLhyOirF1dClW0Yu";
-    static final String CONSUMER_SECRET = "55FbvuajSzdb8hW7DeuVHgz8WgxLTJzOBrw1ZQmDWMKSw1jEyv";
-    static final String ACCESS_TOKEN = "116193615-MeVlzCB7J69RF0pEAvXHRsf3sZKk7i8zWEC8euls";
-    static final String ACCESS_TOKEN_SECRET = "HYTneCGV3FY1W5tEhYlBIWfOj3DCPWwTX447kmIKcS9EV";
+    static final String CONSUMER_KEY = "<CONSUMER_KEY>";
+    static final String CONSUMER_SECRET = "<CONSUMER_SECRET>";
+    static final String ACCESS_TOKEN = "<ACCESS_TOKEN>";
+    static final String ACCESS_TOKEN_SECRET = "<ACCESS_TOKEN_SECRET>";
 
     public static Twitter getTwitterInstance() {
 
